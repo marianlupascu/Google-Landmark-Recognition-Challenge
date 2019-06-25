@@ -1,0 +1,29 @@
+Statistics
+
+1. Number of images : 18006 landmark id : 9779
+2. Number of images : 12995 landmark id : 2061
+3. Number of images : 10899 landmark id : 5554
+4. Number of images : 9352 landmark id : 6651
+5. Number of images : 9059 landmark id : 6696
+6. Number of images : 8909 landmark id : 5376
+7. Number of images : 8848 landmark id : 2743
+8. Number of images : 8841 landmark id : 4352
+9. Number of images : 8513 landmark id : 13526
+10. Number of images : 7636 landmark id : 1553
+11. Number of images : 6772 landmark id : 10900
+12. Number of images : 6419 landmark id : 8063
+13. Number of images : 6301 landmark id : 8429
+14. Number of images : 5246 landmark id : 4987
+15. Number of images : 5211 landmark id : 12220
+16. Number of images : 5169 landmark id : 11784
+17. Number of images : 4836 landmark id : 2949
+18. Number of images : 3686 landmark id : 12718
+19. Number of images : 3582 landmark id : 3804
+20. Number of images : 3558 landmark id : 10184
+21. Number of images : 3466 landmark id : 7092
+22. Number of images : 3374 landmark id : 10045
+23. Number of images : 3346 landmark id : 2338
+24. Number of images : 3314 landmark id : 3924
+25. Number of images : 3313 landmark id : 12172
+26. Number of images : 3115 landmark id : 428
+27. Number of images : 2524 landmark id : 9029

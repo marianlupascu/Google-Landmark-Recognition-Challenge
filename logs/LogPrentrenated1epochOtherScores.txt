@@ -1,0 +1,194 @@
+Epoch 1/1
+--------------------
+TRAINING
+Training batch 0/3856
+/usr/local/lib/python3.6/dist-packages/torch/nn/modules/container.py:92: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  input = module(input)
+Avg loss per 1 - 100 batch (train) 0.10298621654510498
+Avg acc per  1 - 100 batch (train) 3.125%
+Training batch 100/3856
+Avg loss per 101 - 200 batch (train) 0.10297953113913536
+Avg acc per  101 - 200 batch (train) 4.46875%
+Training batch 200/3856
+Avg loss per 201 - 300 batch (train) 0.10295250974595546
+Avg acc per  201 - 300 batch (train) 6.875%
+Training batch 300/3856
+Avg loss per 301 - 400 batch (train) 0.1029143600165844
+Avg acc per  301 - 400 batch (train) 8.46875%
+Training batch 400/3856
+Avg loss per 401 - 500 batch (train) 0.10284114614129067
+Avg acc per  401 - 500 batch (train) 9.0%
+Training batch 500/3856
+Avg loss per 501 - 600 batch (train) 0.10267356887459755
+Avg acc per  501 - 600 batch (train) 10.5%
+Training batch 600/3856
+Avg loss per 601 - 700 batch (train) 0.10158408001065254
+Avg acc per  601 - 700 batch (train) 9.9375%
+Training batch 700/3856
+Avg loss per 701 - 800 batch (train) 0.1011167211830616
+Avg acc per  701 - 800 batch (train) 10.09375%
+Training batch 800/3856
+Avg loss per 801 - 900 batch (train) 0.10125923231244087
+Avg acc per  801 - 900 batch (train) 9.46875%
+Training batch 900/3856
+Avg loss per 901 - 1000 batch (train) 0.10111604653298854
+Avg acc per  901 - 1000 batch (train) 9.5625%
+Training batch 1000/3856
+Avg loss per 1001 - 1100 batch (train) 0.10105178572237491
+Avg acc per  1001 - 1100 batch (train) 9.9375%
+Training batch 1100/3856
+Avg loss per 1101 - 1200 batch (train) 0.10116743162274361
+Avg acc per  1101 - 1200 batch (train) 9.5%
+Training batch 1200/3856
+Avg loss per 1201 - 1300 batch (train) 0.1009361618757248
+Avg acc per  1201 - 1300 batch (train) 10.25%
+Training batch 1300/3856
+Avg loss per 1301 - 1400 batch (train) 0.10069729201495647
+Avg acc per  1301 - 1400 batch (train) 10.5625%
+Training batch 1400/3856
+Avg loss per 1401 - 1500 batch (train) 0.10060602359473705
+Avg acc per  1401 - 1500 batch (train) 10.0625%
+Training batch 1500/3856
+Avg loss per 1501 - 1600 batch (train) 0.10043336518108845
+Avg acc per  1501 - 1600 batch (train) 10.65625%
+Training batch 1600/3856
+Avg loss per 1601 - 1700 batch (train) 0.10036360077559948
+Avg acc per  1601 - 1700 batch (train) 10.625%
+Training batch 1700/3856
+Avg loss per 1701 - 1800 batch (train) 0.10084339283406735
+Avg acc per  1701 - 1800 batch (train) 9.09375%
+Training batch 1800/3856
+Avg loss per 1801 - 1900 batch (train) 0.10056627735495567
+Avg acc per  1801 - 1900 batch (train) 9.9375%
+Training batch 1900/3856
+Avg loss per 1901 - 2000 batch (train) 0.10019773967564106
+Avg acc per  1901 - 2000 batch (train) 11.4375%
+Training batch 2000/3856
+Avg loss per 2001 - 2100 batch (train) 0.10032177671790123
+Avg acc per  2001 - 2100 batch (train) 11.28125%
+Training batch 2100/3856
+Avg loss per 2101 - 2200 batch (train) 0.10014707192778588
+Avg acc per  2101 - 2200 batch (train) 11.9375%
+Training batch 2200/3856
+Avg loss per 2201 - 2300 batch (train) 0.10017061375081539
+Avg acc per  2201 - 2300 batch (train) 12.125%
+Training batch 2300/3856
+Avg loss per 2301 - 2400 batch (train) 0.0997581797093153
+Avg acc per  2301 - 2400 batch (train) 14.03125%
+Training batch 2400/3856
+Avg loss per 2401 - 2500 batch (train) 0.10006116554141045
+Avg acc per  2401 - 2500 batch (train) 13.84375%
+Training batch 2500/3856
+Avg loss per 2501 - 2600 batch (train) 0.10005073897540569
+Avg acc per  2501 - 2600 batch (train) 14.0625%
+Training batch 2600/3856
+Avg loss per 2601 - 2700 batch (train) 0.09979116410017014
+Avg acc per  2601 - 2700 batch (train) 14.5625%
+Training batch 2700/3856
+Avg loss per 2701 - 2800 batch (train) 0.09987413436174393
+Avg acc per  2701 - 2800 batch (train) 13.9375%
+Training batch 2800/3856
+Avg loss per 2801 - 2900 batch (train) 0.09961446672677994
+Avg acc per  2801 - 2900 batch (train) 14.8125%
+Training batch 2900/3856
+Avg loss per 2901 - 3000 batch (train) 0.09976296491920948
+Avg acc per  2901 - 3000 batch (train) 14.46875%
+Training batch 3000/3856
+Avg loss per 3001 - 3100 batch (train) 0.09958473272621632
+Avg acc per  3001 - 3100 batch (train) 15.0625%
+Training batch 3100/3856
+Avg loss per 3101 - 3200 batch (train) 0.0994657926261425
+Avg acc per  3101 - 3200 batch (train) 15.125%
+Training batch 3200/3856
+Avg loss per 3201 - 3300 batch (train) 0.09975766725838184
+Avg acc per  3201 - 3300 batch (train) 14.03125%
+Training batch 3300/3856
+Avg loss per 3301 - 3400 batch (train) 0.09921595357358455
+Avg acc per  3301 - 3400 batch (train) 15.625%
+Training batch 3400/3856
+Avg loss per 3401 - 3500 batch (train) 0.09937673211097717
+Avg acc per  3401 - 3500 batch (train) 14.71875%
+Training batch 3500/3856
+Avg loss per 3501 - 3600 batch (train) 0.09964313559234142
+Avg acc per  3501 - 3600 batch (train) 14.1875%
+Training batch 3600/3856
+Avg loss per 3601 - 3700 batch (train) 0.0997120664268732
+Avg acc per  3601 - 3700 batch (train) 13.84375%
+Training batch 3700/3856
+Avg loss per 3701 - 3800 batch (train) 0.0992204824090004
+Avg acc per  3701 - 3800 batch (train) 14.875%
+Training batch 3800/3856
+Avg loss per 3801 - 3900 batch (train) 0.09916483156383038
+Avg acc per  3801 - 3900 batch (train) 15.40625%
+
+Epoch 1 result: 
+Avg loss (train): 0.1005
+Avg acc (train): 0.1183
+
+
+MESURE ACCURACY ON TRAIN AND VALIDATION
+Train batch 0/827
+Avg loss per 1 - 100 batch (train) 0.10118401050567627
+Avg acc per  1 - 100 batch (train) 9.375%
+Train batch 100/827
+Avg loss per 101 - 200 batch (train) 0.0990608024715197
+Avg acc per  101 - 200 batch (train) 15.93440594059406%
+Train batch 200/827
+Avg loss per 201 - 300 batch (train) 0.09900243050275158
+Avg acc per  201 - 300 batch (train) 16.013681592039802%
+Train batch 300/827
+Avg loss per 301 - 400 batch (train) 0.09891155218563207
+Avg acc per  301 - 400 batch (train) 16.175249169435215%
+Train batch 400/827
+Avg loss per 401 - 500 batch (train) 0.0989301435630815
+Avg acc per  401 - 500 batch (train) 16.186097256857856%
+Train batch 500/827
+Avg loss per 501 - 600 batch (train) 0.09888329969611234
+Avg acc per  501 - 600 batch (train) 16.29241516966068%
+Train batch 600/827
+Avg loss per 601 - 700 batch (train) 0.0989551255835868
+Avg acc per  601 - 700 batch (train) 16.046173044925126%
+Train batch 700/827
+Avg loss per 701 - 800 batch (train) 0.09895957698155401
+Avg acc per  701 - 800 batch (train) 15.990549215406562%
+Train batch 800/827
+Avg loss per 801 - 900 batch (train) 0.09894068430313903
+Avg acc per  801 - 900 batch (train) 16.042446941323345%
+Validation batch 0/827
+Avg loss per 1 - 100 batch (val) 0.09802527725696564
+Avg acc per  1 - 100 batch (val) 15.625%
+Validation batch 100/827
+Avg loss per 101 - 200 batch (val) 0.09882163032889366
+Avg acc per  101 - 200 batch (val) 16.0%
+Validation batch 200/827
+Avg loss per 201 - 300 batch (val) 0.098614144846797
+Avg acc per  201 - 300 batch (val) 16.96875%
+Validation batch 300/827
+Avg loss per 301 - 400 batch (val) 0.09876934021711349
+Avg acc per  301 - 400 batch (val) 16.4375%
+Validation batch 400/827
+Avg loss per 401 - 500 batch (val) 0.09860426992177963
+Avg acc per  401 - 500 batch (val) 16.6875%
+Validation batch 500/827
+Avg loss per 501 - 600 batch (val) 0.09860955886542797
+Avg acc per  501 - 600 batch (val) 16.6875%
+Validation batch 600/827
+Avg loss per 601 - 700 batch (val) 0.09870967417955398
+Avg acc per  601 - 700 batch (val) 16.1875%
+Validation batch 700/827
+Avg loss per 701 - 800 batch (val) 0.09827512934803963
+Avg acc per  701 - 800 batch (val) 17.75%
+Validation batch 800/827
+Avg loss per 801 - 900 batch (val) 0.09830987274646759
+Avg acc per  801 - 900 batch (val) 17.78125%
+
+Epoch 1 result: 
+Avg loss (train): 0.1005
+Avg acc (train): 0.1183%
+Avg loss (val): 0.0987
+Avg acc (val): 16.8249%
+--------------------
+
+
+Training completed in 65m 50s
+Best acc: 16.8249%
